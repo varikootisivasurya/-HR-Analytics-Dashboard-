@@ -6,5 +6,5 @@ To design an interactive HR Analytics Dashboard using Microsoft Excel that provi
 The dashboard aims to help HR professionals make informed decisions through data visualization tools like pivot tables, charts, and slicers.
 
 ## Dataset Used  
-<a href="https://github.com/varikootisivasurya/-HR-Analytics-Dashboard-/blob/main/DataSet.xlsx" target="_blank">📂 Dataset.xlsx </a>
+<a href="https://github.com/varikootisivasurya/-HR-Analytics-Dashboard-/blob/main/DataSet.xlsx" target="_blank"> Dataset.xlsx </a>
 
