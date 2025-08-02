@@ -18,3 +18,14 @@ The dashboard aims to help HR professionals make informed decisions through data
 - 🕒 How does job tenure impact employee retention?
 - 🌍 How diverse is the workforce by gender and job role?
 - ⭐ How do performance ratings correlate with attrition?
+
+- Dashboard Interaction <a href="https://github.com/varikootisivasurya/-HR-Analytics-Dashboard-/blob/main/Hr-analytics-Dashboard.jpg">View Dashboard</a>
+
+## Process
+
+- **Data Preparation:** Cleaned and structured employee data using Microsoft Excel (handled nulls, duplicates, formatting).
+- **Data Import & Modeling:** Imported the dataset into Power BI, built relationships, and created DAX measures for KPIs.
+- **Dashboard Creation:** Designed an interactive dashboard with filters, slicers, and visualizations for age, gender, education, etc.
+- **Publishing:** Captured dashboard screenshots and uploaded the .pbix file and dataset to GitHub for sharing and documentation.
+
+
