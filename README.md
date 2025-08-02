@@ -29,4 +29,7 @@ The dashboard aims to help HR professionals make informed decisions through data
 - **Dashboard Creation:** Designed an interactive dashboard with filters, slicers, and visualizations for age, gender, education, etc.
 - **Publishing:** Captured dashboard screenshots and uploaded the .pbix file and dataset to GitHub for sharing and documentation.
 
+# Dashboard
+![Hr_Analytics_Dahboard](https://github.com/user-attachments/assets/eaece3a3-5eba-4f6d-8ba2-b2856ba4517f)
+
 
