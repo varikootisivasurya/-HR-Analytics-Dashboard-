@@ -1,3 +1,4 @@
+![Hr_Analytics_Dahboard](https://github.com/user-attachments/assets/4edb22e1-3bf8-4234-b5c2-83534dabbdc9)
 ## HR Analytics Dashboard (Interactive Dashboard using MS Excel)
 
 ### 📌 Project Objective
